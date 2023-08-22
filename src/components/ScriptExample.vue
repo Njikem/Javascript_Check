@@ -9,8 +9,8 @@
         data: function(){
             return {
             tweets: ['mauby', 'bright', 'job'],
-            num_friends: [2,3,5]
-            logged_in: true
+            num_friends: [2,3,5],
+            logged_in: true,
 
 
             }
